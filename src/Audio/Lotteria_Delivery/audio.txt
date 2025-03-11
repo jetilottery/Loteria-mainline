@@ -1,0 +1,20 @@
+export PATH=$PATH:/C:/Users/liua/AppData/Roaming/npm/node_modules/audiosprite/ffmpeg/bin
+cd D:/SKB/code/IW/liua_CPEKW-Q1100713_IW-Loteria-mainline_9478/src/Audio/Lotteria_Delivery
+
+ch0="Lotteria_BGM.wav Lotteria_BGM_Term.wav BetUp.wav BetDown.wav BetMax.wav"
+audiosprite -o ch0 -f howler -e ogg,m4a,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch0
+
+ch1="TileReveal.wav"
+audiosprite -o ch1 -f howler -e ogg,m4a,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch1
+
+ch2="UiClick.wav "
+audiosprite -o ch2 -f howler -e ogg,m4a,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch2
+
+ch3="Win1.wav Win2.wav Win3.wav Win4.wav"
+audiosprite -o ch3 -f howler -e ogg,m4a,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch3
+
+ch4="Highlight1.wav Highlight2.wav Highlight3.wav"
+audiosprite -o ch4 -f howler -e ogg,m4a,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch4
+
+ch5="Match.wav"
+audiosprite -o ch5 -f howler -e ogg,m4a,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch5

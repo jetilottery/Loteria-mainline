@@ -1,0 +1,82 @@
+{
+  "version": "5-4-2018-4:56pm-SM-defaut_01",
+  "audioLoader": {
+    "yes": "Ja",
+    "no": "Nei",
+    "confirm": "Ønsker du lyd?"
+  },
+  "Paytable": { 
+    
+  },
+  "title": "________",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Slik spiller du",
+      "payTable": "Premieoversikt",
+      "price": "Pris",
+      "stake": "Pris",
+      "balance": "Saldo",
+      "button_autoPlay": "SKRAP ALT",
+	  "prizeDivision": "Premieinndeling",
+		"prizeValue": "Premieverdi",
+		"approximatePrize": "Omtrentlige gjenværende premier",
+		"oddsPerPlay": "Odds per spill",
+        "overAllOdds": "Det er en samlet sjanse på 1 til {oddNum} for å vinne en premie i hver runde.",
+        "availablePrices": "Tilgjengelige prispoeng:{prices}"
+    },
+    "Commercial": {
+      "howToPlay": "SLIK SPILLER DU",
+      "payTable": "PREMIEOVERSIKT",
+      "price": "Pris",
+      "stake": "PRIS",
+      "balance": "Saldo",
+      "button_autoPlay": "SKRAP ALT"
+    },
+    "audio": {
+      "on": "På",
+      "off": "Av",
+      "sound": "Lyd"
+    }
+  },
+	"Error": {
+	   "error29000": "Feil:29000\n\nDet har oppstått en feil.\nAvslutt og start spillet på nytt."
+	},
+  "Game": {
+    "demo": "PRØVESPILL ",
+    "button_buy": "KJØP",
+    "button_try": "PRØVESPILL",
+    "button_continue": "FORTSETT",
+    "button_move2moneyGame": "SPILL MED PENGER",
+    "button_playAgain": "OK",
+    "button_MTMPlayAgain": "OK",
+    "button_stop": "STOPP",
+    "wager": "PRIS",
+    "meter_wager": "Pris: ",
+    "balance": "Saldo: ",
+    "wins": "Premie: ",
+    "wins_demo": "PREMIE PRØVESPILL: ",
+    "message_nonWin": "Beklager, ingen premie",
+    "message_buyWin": "GRATULERER!\nDu vant",
+    "message_tryWin": "Hadde dette vært et spill for \nekte penger hadde du vunnet",
+    "message_anonymousTryWin": "Hadde dette vært et spill for \nekte penger hadde du vunnet",
+    "message_close": "OK",
+    "button_exit": "AVSLUTT",
+    "session_timeout_warning_exit_button": "AVSLUTT",
+    "error_button_exit": "AVSLUTT",
+    "warning_button_continue": "FORTSETT",
+    "warning_button_exitGame": "AVSLUTT",
+    "warning_title": "ADVARSEL",
+    "error_title": "FEIL",
+    "win_up_to": "VINN INNTIL",
+    "win_up_to_mark": "!",
+    "tutorial_title": "SLIK SPILLER DU",
+    "tutorial_00": "Trykk på «DEL UT» for å se hvilke symboler som skjuler seg under kortene. Du har 5 trekk. Hvis de avdekkede symbolene også vises på spillebrettet, markeres disse. Når alle symboler på en vannrett, loddrett eller diagonal linje er markert på spillebrettet, vinner du den tilhørende premien.",
+    "meter_division": " | ",
+    "prizeLevel": "Premie",
+    "prizeValue": "Premie",
+    "buttonClose": "X",
+    "paytableWager": "Pris: ",
+    "flip": "DEL UT",
+    "description": "Beskrivelse"
+  }
+}

@@ -1,0 +1,2150 @@
+{"frames": {
+
+"gameCardNormal1_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal1_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal1_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal1_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal1_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal1_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal1_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal1_0007.png":
+{
+	"frame": {"x":249,"y":964,"w":9,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal1_0008.png":
+{
+	"frame": {"x":840,"y":659,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal1_0009.png":
+{
+	"frame": {"x":1,"y":951,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal1_0010.png":
+{
+	"frame": {"x":251,"y":623,"w":126,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":136},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal2_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal2_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal2_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal2_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal2_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal2_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal2_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal2_0007.png":
+{
+	"frame": {"x":502,"y":1308,"w":9,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal2_0008.png":
+{
+	"frame": {"x":908,"y":818,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal2_0009.png":
+{
+	"frame": {"x":249,"y":182,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal2_0010.png":
+{
+	"frame": {"x":635,"y":545,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal3_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal3_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal3_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal3_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal3_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal3_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal3_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal3_0007.png":
+{
+	"frame": {"x":434,"y":1330,"w":9,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal3_0008.png":
+{
+	"frame": {"x":697,"y":1093,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal3_0009.png":
+{
+	"frame": {"x":475,"y":182,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal3_0010.png":
+{
+	"frame": {"x":644,"y":819,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal4_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal4_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal4_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal4_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal4_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal4_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal4_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal4_0007.png":
+{
+	"frame": {"x":434,"y":1341,"w":9,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal4_0008.png":
+{
+	"frame": {"x":765,"y":1149,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal4_0009.png":
+{
+	"frame": {"x":588,"y":182,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal4_0010.png":
+{
+	"frame": {"x":644,"y":956,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal5_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal5_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal5_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal5_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal5_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal5_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal5_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal5_0007.png":
+{
+	"frame": {"x":434,"y":1352,"w":9,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal5_0008.png":
+{
+	"frame": {"x":833,"y":1149,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal5_0009.png":
+{
+	"frame": {"x":701,"y":182,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal5_0010.png":
+{
+	"frame": {"x":772,"y":1021,"w":126,"h":135},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal6_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal6_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal6_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal6_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal6_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal6_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal6_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal6_0007.png":
+{
+	"frame": {"x":434,"y":1363,"w":9,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal6_0008.png":
+{
+	"frame": {"x":901,"y":1180,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal6_0009.png":
+{
+	"frame": {"x":125,"y":472,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal6_0010.png":
+{
+	"frame": {"x":160,"y":1252,"w":126,"h":135},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal7_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal7_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal7_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal7_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal7_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal7_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal7_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal7_0007.png":
+{
+	"frame": {"x":632,"y":1330,"w":9,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal7_0008.png":
+{
+	"frame": {"x":434,"y":1132,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal7_0009.png":
+{
+	"frame": {"x":114,"y":766,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal7_0010.png":
+{
+	"frame": {"x":297,"y":1252,"w":126,"h":135},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal8_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal8_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal8_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal8_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal8_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal8_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal8_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal8_0007.png":
+{
+	"frame": {"x":632,"y":1341,"w":9,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal8_0008.png":
+{
+	"frame": {"x":502,"y":1161,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal8_0009.png":
+{
+	"frame": {"x":114,"y":925,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal8_0010.png":
+{
+	"frame": {"x":814,"y":182,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal9_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal9_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal9_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal9_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal9_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal9_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal9_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal9_0007.png":
+{
+	"frame": {"x":632,"y":1352,"w":9,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal9_0008.png":
+{
+	"frame": {"x":502,"y":1229,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal9_0009.png":
+{
+	"frame": {"x":114,"y":1084,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal9_0010.png":
+{
+	"frame": {"x":846,"y":319,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal10_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal10_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal10_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal10_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal10_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal10_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal10_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal10_0007.png":
+{
+	"frame": {"x":114,"y":156,"w":9,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal10_0008.png":
+{
+	"frame": {"x":486,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal10_0009.png":
+{
+	"frame": {"x":1,"y":156,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal10_0010.png":
+{
+	"frame": {"x":718,"y":341,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal11_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal11_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal11_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal11_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal11_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal11_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal11_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal11_0007.png":
+{
+	"frame": {"x":114,"y":354,"w":9,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal11_0008.png":
+{
+	"frame": {"x":667,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal11_0009.png":
+{
+	"frame": {"x":119,"y":1,"w":111,"h":157},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal11_0010.png":
+{
+	"frame": {"x":249,"y":486,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal12_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal12_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal12_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal12_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal12_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal12_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal12_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal12_0007.png":
+{
+	"frame": {"x":238,"y":154,"w":9,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal12_0008.png":
+{
+	"frame": {"x":537,"y":341,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal12_0009.png":
+{
+	"frame": {"x":1,"y":315,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal12_0010.png":
+{
+	"frame": {"x":260,"y":761,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal13_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal13_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal13_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal13_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal13_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal13_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal13_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal13_0007.png":
+{
+	"frame": {"x":114,"y":552,"w":9,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal13_0008.png":
+{
+	"frame": {"x":537,"y":409,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal13_0009.png":
+{
+	"frame": {"x":278,"y":1,"w":111,"h":157},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal13_0010.png":
+{
+	"frame": {"x":260,"y":898,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal14_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal14_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal14_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal14_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal14_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal14_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal14_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal14_0007.png":
+{
+	"frame": {"x":238,"y":352,"w":9,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal14_0008.png":
+{
+	"frame": {"x":505,"y":477,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal14_0009.png":
+{
+	"frame": {"x":1,"y":474,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal14_0010.png":
+{
+	"frame": {"x":260,"y":1035,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal15_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal15_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal15_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal15_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal15_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal15_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal15_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal15_0007.png":
+{
+	"frame": {"x":227,"y":766,"w":9,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal15_0008.png":
+{
+	"frame": {"x":516,"y":1093,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal15_0009.png":
+{
+	"frame": {"x":437,"y":1,"w":111,"h":157},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal15_0010.png":
+{
+	"frame": {"x":377,"y":447,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal16_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal16_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal16_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal16_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal16_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal16_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal16_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal16_0007.png":
+{
+	"frame": {"x":227,"y":964,"w":9,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal16_0008.png":
+{
+	"frame": {"x":763,"y":478,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal16_0009.png":
+{
+	"frame": {"x":1,"y":633,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal16_0010.png":
+{
+	"frame": {"x":379,"y":584,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal17_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal17_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal17_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal17_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal17_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal17_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal17_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal17_0007.png":
+{
+	"frame": {"x":238,"y":766,"w":9,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal17_0008.png":
+{
+	"frame": {"x":772,"y":659,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal17_0009.png":
+{
+	"frame": {"x":596,"y":1,"w":111,"h":157},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal17_0010.png":
+{
+	"frame": {"x":507,"y":545,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal18_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal18_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal18_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal18_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal18_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal18_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal18_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal18_0007.png":
+{
+	"frame": {"x":238,"y":964,"w":9,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal18_0008.png":
+{
+	"frame": {"x":772,"y":840,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal18_0009.png":
+{
+	"frame": {"x":1,"y":792,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal18_0010.png":
+{
+	"frame": {"x":388,"y":721,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal19_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal19_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal19_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal19_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal19_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal19_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal19_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal19_0007.png":
+{
+	"frame": {"x":249,"y":766,"w":9,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal19_0008.png":
+{
+	"frame": {"x":831,"y":478,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal19_0009.png":
+{
+	"frame": {"x":755,"y":1,"w":111,"h":157},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal19_0010.png":
+{
+	"frame": {"x":388,"y":858,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal20_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal20_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal20_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal20_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal20_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal20_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal20_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal20_0007.png":
+{
+	"frame": {"x":227,"y":1241,"w":9,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal20_0008.png":
+{
+	"frame": {"x":840,"y":840,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal20_0009.png":
+{
+	"frame": {"x":1,"y":1110,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal20_0010.png":
+{
+	"frame": {"x":388,"y":995,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal21_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal21_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal21_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal21_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal21_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal21_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal21_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal21_0007.png":
+{
+	"frame": {"x":969,"y":1180,"w":9,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal21_0008.png":
+{
+	"frame": {"x":899,"y":456,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal21_0009.png":
+{
+	"frame": {"x":1,"y":1269,"w":111,"h":157},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal21_0010.png":
+{
+	"frame": {"x":516,"y":682,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal22_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal22_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal22_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal22_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal22_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal22_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal22_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal22_0007.png":
+{
+	"frame": {"x":502,"y":1297,"w":9,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal22_0008.png":
+{
+	"frame": {"x":908,"y":637,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal22_0009.png":
+{
+	"frame": {"x":125,"y":154,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal22_0010.png":
+{
+	"frame": {"x":516,"y":819,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal23_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal23_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal23_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal23_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal23_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal23_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal23_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal23_0007.png":
+{
+	"frame": {"x":632,"y":1363,"w":9,"h":195},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":195},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal23_0008.png":
+{
+	"frame": {"x":227,"y":1172,"w":67,"h":177},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":10,"w":67,"h":177},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal23_0009.png":
+{
+	"frame": {"x":125,"y":313,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal23_0010.png":
+{
+	"frame": {"x":516,"y":956,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal30_0000.png":
+{
+	"frame": {"x":125,"y":631,"w":124,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":124,"h":133},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal30_0001.png":
+{
+	"frame": {"x":249,"y":341,"w":123,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":123,"h":143},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal30_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":116,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":22,"w":116,"h":153},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal30_0003.png":
+{
+	"frame": {"x":374,"y":341,"w":104,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":18,"w":104,"h":161},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal30_0004.png":
+{
+	"frame": {"x":914,"y":1,"w":88,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":88,"h":171},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal30_0005.png":
+{
+	"frame": {"x":305,"y":114,"w":66,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal30_0006.png":
+{
+	"frame": {"x":119,"y":114,"w":38,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":7,"w":38,"h":184},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal30_0007.png":
+{
+	"frame": {"x":434,"y":1319,"w":9,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":1,"w":9,"h":196},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal30_0008.png":
+{
+	"frame": {"x":909,"y":999,"w":66,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":66,"h":179},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal30_0009.png":
+{
+	"frame": {"x":362,"y":182,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":20,"w":111,"h":157},
+	"sourceSize": {"w":142,"h":198}
+},
+"gameCardNormal30_0010.png":
+{
+	"frame": {"x":644,"y":682,"w":126,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":126,"h":135},
+	"sourceSize": {"w":142,"h":198}
+}},
+"animations": {
+	"gameCardNormal1": ["gameCardNormal1_0000.png","gameCardNormal1_0001.png","gameCardNormal1_0002.png","gameCardNormal1_0003.png","gameCardNormal1_0004.png","gameCardNormal1_0005.png","gameCardNormal1_0006.png","gameCardNormal1_0007.png","gameCardNormal1_0008.png","gameCardNormal1_0009.png","gameCardNormal1_0010.png"],
+	"gameCardNormal10": ["gameCardNormal10_0000.png","gameCardNormal10_0001.png","gameCardNormal10_0002.png","gameCardNormal10_0003.png","gameCardNormal10_0004.png","gameCardNormal10_0005.png","gameCardNormal10_0006.png","gameCardNormal10_0007.png","gameCardNormal10_0008.png","gameCardNormal10_0009.png","gameCardNormal10_0010.png"],
+	"gameCardNormal11": ["gameCardNormal11_0000.png","gameCardNormal11_0001.png","gameCardNormal11_0002.png","gameCardNormal11_0003.png","gameCardNormal11_0004.png","gameCardNormal11_0005.png","gameCardNormal11_0006.png","gameCardNormal11_0007.png","gameCardNormal11_0008.png","gameCardNormal11_0009.png","gameCardNormal11_0010.png"],
+	"gameCardNormal12": ["gameCardNormal12_0000.png","gameCardNormal12_0001.png","gameCardNormal12_0002.png","gameCardNormal12_0003.png","gameCardNormal12_0004.png","gameCardNormal12_0005.png","gameCardNormal12_0006.png","gameCardNormal12_0007.png","gameCardNormal12_0008.png","gameCardNormal12_0009.png","gameCardNormal12_0010.png"],
+	"gameCardNormal13": ["gameCardNormal13_0000.png","gameCardNormal13_0001.png","gameCardNormal13_0002.png","gameCardNormal13_0003.png","gameCardNormal13_0004.png","gameCardNormal13_0005.png","gameCardNormal13_0006.png","gameCardNormal13_0007.png","gameCardNormal13_0008.png","gameCardNormal13_0009.png","gameCardNormal13_0010.png"],
+	"gameCardNormal14": ["gameCardNormal14_0000.png","gameCardNormal14_0001.png","gameCardNormal14_0002.png","gameCardNormal14_0003.png","gameCardNormal14_0004.png","gameCardNormal14_0005.png","gameCardNormal14_0006.png","gameCardNormal14_0007.png","gameCardNormal14_0008.png","gameCardNormal14_0009.png","gameCardNormal14_0010.png"],
+	"gameCardNormal15": ["gameCardNormal15_0000.png","gameCardNormal15_0001.png","gameCardNormal15_0002.png","gameCardNormal15_0003.png","gameCardNormal15_0004.png","gameCardNormal15_0005.png","gameCardNormal15_0006.png","gameCardNormal15_0007.png","gameCardNormal15_0008.png","gameCardNormal15_0009.png","gameCardNormal15_0010.png"],
+	"gameCardNormal16": ["gameCardNormal16_0000.png","gameCardNormal16_0001.png","gameCardNormal16_0002.png","gameCardNormal16_0003.png","gameCardNormal16_0004.png","gameCardNormal16_0005.png","gameCardNormal16_0006.png","gameCardNormal16_0007.png","gameCardNormal16_0008.png","gameCardNormal16_0009.png","gameCardNormal16_0010.png"],
+	"gameCardNormal17": ["gameCardNormal17_0000.png","gameCardNormal17_0001.png","gameCardNormal17_0002.png","gameCardNormal17_0003.png","gameCardNormal17_0004.png","gameCardNormal17_0005.png","gameCardNormal17_0006.png","gameCardNormal17_0007.png","gameCardNormal17_0008.png","gameCardNormal17_0009.png","gameCardNormal17_0010.png"],
+	"gameCardNormal18": ["gameCardNormal18_0000.png","gameCardNormal18_0001.png","gameCardNormal18_0002.png","gameCardNormal18_0003.png","gameCardNormal18_0004.png","gameCardNormal18_0005.png","gameCardNormal18_0006.png","gameCardNormal18_0007.png","gameCardNormal18_0008.png","gameCardNormal18_0009.png","gameCardNormal18_0010.png"],
+	"gameCardNormal19": ["gameCardNormal19_0000.png","gameCardNormal19_0001.png","gameCardNormal19_0002.png","gameCardNormal19_0003.png","gameCardNormal19_0004.png","gameCardNormal19_0005.png","gameCardNormal19_0006.png","gameCardNormal19_0007.png","gameCardNormal19_0008.png","gameCardNormal19_0009.png","gameCardNormal19_0010.png"],
+	"gameCardNormal2": ["gameCardNormal2_0000.png","gameCardNormal2_0001.png","gameCardNormal2_0002.png","gameCardNormal2_0003.png","gameCardNormal2_0004.png","gameCardNormal2_0005.png","gameCardNormal2_0006.png","gameCardNormal2_0007.png","gameCardNormal2_0008.png","gameCardNormal2_0009.png","gameCardNormal2_0010.png"],
+	"gameCardNormal20": ["gameCardNormal20_0000.png","gameCardNormal20_0001.png","gameCardNormal20_0002.png","gameCardNormal20_0003.png","gameCardNormal20_0004.png","gameCardNormal20_0005.png","gameCardNormal20_0006.png","gameCardNormal20_0007.png","gameCardNormal20_0008.png","gameCardNormal20_0009.png","gameCardNormal20_0010.png"],
+	"gameCardNormal21": ["gameCardNormal21_0000.png","gameCardNormal21_0001.png","gameCardNormal21_0002.png","gameCardNormal21_0003.png","gameCardNormal21_0004.png","gameCardNormal21_0005.png","gameCardNormal21_0006.png","gameCardNormal21_0007.png","gameCardNormal21_0008.png","gameCardNormal21_0009.png","gameCardNormal21_0010.png"],
+	"gameCardNormal22": ["gameCardNormal22_0000.png","gameCardNormal22_0001.png","gameCardNormal22_0002.png","gameCardNormal22_0003.png","gameCardNormal22_0004.png","gameCardNormal22_0005.png","gameCardNormal22_0006.png","gameCardNormal22_0007.png","gameCardNormal22_0008.png","gameCardNormal22_0009.png","gameCardNormal22_0010.png"],
+	"gameCardNormal23": ["gameCardNormal23_0000.png","gameCardNormal23_0001.png","gameCardNormal23_0002.png","gameCardNormal23_0003.png","gameCardNormal23_0004.png","gameCardNormal23_0005.png","gameCardNormal23_0006.png","gameCardNormal23_0007.png","gameCardNormal23_0008.png","gameCardNormal23_0009.png","gameCardNormal23_0010.png"],
+	"gameCardNormal3": ["gameCardNormal3_0000.png","gameCardNormal3_0001.png","gameCardNormal3_0002.png","gameCardNormal3_0003.png","gameCardNormal3_0004.png","gameCardNormal3_0005.png","gameCardNormal3_0006.png","gameCardNormal3_0007.png","gameCardNormal3_0008.png","gameCardNormal3_0009.png","gameCardNormal3_0010.png"],
+	"gameCardNormal30": ["gameCardNormal30_0000.png","gameCardNormal30_0001.png","gameCardNormal30_0002.png","gameCardNormal30_0003.png","gameCardNormal30_0004.png","gameCardNormal30_0005.png","gameCardNormal30_0006.png","gameCardNormal30_0007.png","gameCardNormal30_0008.png","gameCardNormal30_0009.png","gameCardNormal30_0010.png"],
+	"gameCardNormal4": ["gameCardNormal4_0000.png","gameCardNormal4_0001.png","gameCardNormal4_0002.png","gameCardNormal4_0003.png","gameCardNormal4_0004.png","gameCardNormal4_0005.png","gameCardNormal4_0006.png","gameCardNormal4_0007.png","gameCardNormal4_0008.png","gameCardNormal4_0009.png","gameCardNormal4_0010.png"],
+	"gameCardNormal5": ["gameCardNormal5_0000.png","gameCardNormal5_0001.png","gameCardNormal5_0002.png","gameCardNormal5_0003.png","gameCardNormal5_0004.png","gameCardNormal5_0005.png","gameCardNormal5_0006.png","gameCardNormal5_0007.png","gameCardNormal5_0008.png","gameCardNormal5_0009.png","gameCardNormal5_0010.png"],
+	"gameCardNormal6": ["gameCardNormal6_0000.png","gameCardNormal6_0001.png","gameCardNormal6_0002.png","gameCardNormal6_0003.png","gameCardNormal6_0004.png","gameCardNormal6_0005.png","gameCardNormal6_0006.png","gameCardNormal6_0007.png","gameCardNormal6_0008.png","gameCardNormal6_0009.png","gameCardNormal6_0010.png"],
+	"gameCardNormal7": ["gameCardNormal7_0000.png","gameCardNormal7_0001.png","gameCardNormal7_0002.png","gameCardNormal7_0003.png","gameCardNormal7_0004.png","gameCardNormal7_0005.png","gameCardNormal7_0006.png","gameCardNormal7_0007.png","gameCardNormal7_0008.png","gameCardNormal7_0009.png","gameCardNormal7_0010.png"],
+	"gameCardNormal8": ["gameCardNormal8_0000.png","gameCardNormal8_0001.png","gameCardNormal8_0002.png","gameCardNormal8_0003.png","gameCardNormal8_0004.png","gameCardNormal8_0005.png","gameCardNormal8_0006.png","gameCardNormal8_0007.png","gameCardNormal8_0008.png","gameCardNormal8_0009.png","gameCardNormal8_0010.png"],
+	"gameCardNormal9": ["gameCardNormal9_0000.png","gameCardNormal9_0001.png","gameCardNormal9_0002.png","gameCardNormal9_0003.png","gameCardNormal9_0004.png","gameCardNormal9_0005.png","gameCardNormal9_0006.png","gameCardNormal9_0007.png","gameCardNormal9_0008.png","gameCardNormal9_0009.png","gameCardNormal9_0010.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbol_I.png",
+	"format": "RGBA8888",
+	"size": {"w":1003,"h":1381},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:69274a0cfcfae672be8ed38dfd564f7f:813cdd205ecf0b3c816203edc5e5e2d3:d2de1a39fe1df52f2e6bd0442e067523$"
+}
+}

@@ -1,0 +1,85 @@
+﻿{
+    "version": "5-4-2018-4:56pm-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Tak",
+        "no": "Nie",
+        "confirm": "Czy włączyć dźwięk?"
+    },
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "od {@minRTP}% do {@maxRTP}%",
+        "paybackTitle": "Oczekiwany zwrot",
+        "paybackBody": "Długoterminowy, oczekiwany teoretycznie zwrot tej gry wynosi {RTP}."
+    },
+    "title": "Znaczki",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "Zasady gry",
+            "payTable": "Tabela wygranych",
+            "price": "Cena",
+            "stake": "Stawka",
+            "balance": "Saldo",
+            "button_autoPlay": "AUTO",
+			"prizeDivision": "Stopień wygranej",
+			"prizeValue": "Wartość wygranej",
+			"approximatePrize": "Pozostało do wygrania",
+			"oddsPerPlay": "Szansa na wygraną",
+			"overAllOdds": "Łączna szansa wygrania nagrody dla danej stawki: 1 na {oddNum}.",
+			"availablePrices": "Dostępne stawki: {prices}"
+        },
+        "Commercial": {
+            "howToPlay": "Zasady gry",
+            "payTable": "Tabela wygranych",
+            "price": "Cena",
+            "stake": "Stawka",
+            "balance": "Saldo",
+            "button_autoPlay": "AUTO"
+        },
+        "audio": {
+            "on": "Wł.",
+            "off": "Wył.",
+            "sound": "Dźwięk"
+        }
+    },
+    "Error": {
+	   "error29000": "Błąd:29000\n\nWystąpił wewnętrzny błąd.\nWYJDŹ i uruchom grę ponownie."
+    },
+    "Game": {
+        "demo": "DEMO ",
+        "button_buy": "PŁACĘ",
+        "button_try": "DEMO",
+        "button_continue": "KONTYNUUJ",
+        "button_move2moneyGame": "GRAJ ZA PIENIĄDZE",
+        "button_playAgain": "GRAJ PONOWNIE",
+        "button_MTMPlayAgain": "SPRÓBUJ PONOWNIE",
+        "button_stop": "STOP",
+        "wager": "OPŁATA ZA LOS",
+        "meter_wager": "OPŁATA ZA LOS: ",            
+        "balance": "SALDO: ",
+        "wins": "WYGRANA: ",
+        "wins_demo": "WYGRANA DEMO: ",
+        "message_nonWin": "POWODZENIA\nNASTĘPNYM RAZEM",
+        "message_buyWin": "GRATULACJE!\nTwoja Wygrana to ",
+        "message_tryWin": "DZIĘKUJEMY ZA GRĘ!\nMOŻNA BYŁO WYGRAĆ ",
+        "message_anonymousTryWin": "DZIĘKUJEMY ZA GRĘ!\nMOŻNA BYŁO WYGRAĆ",
+        "message_close": "OK",
+        "button_exit": "WYJDŹ",
+        "session_timeout_warning_exit_button": "WYJDŹ",
+        "error_button_exit": "WYJDŹ",
+        "warning_button_continue": "KONTYNUUJ",
+        "warning_button_exitGame": "WYJDŹ",
+        "warning_title": "OSTRZEŻENIE",
+        "error_title": "BŁĄD",
+        "win_up_to": "WYGRAJ DO",
+        "win_up_to_mark": "!",
+        "tutorial_title": "ZASADY GRY",
+        "tutorial_00": "Kliknij przycisk ROZDAJ, aby odkryć trzy symbole.\n\nJeżeli odkryte symbole pojawią się na planszy, to zostaną one automatycznie wyróżnione.\n\nAby otrzymać wygraną przypisaną do danej linii należy skompletować cztery symbole na linii poziomej, pionowej lub ukośnej.",
+        "meter_division": " | ",
+        "prizeLevel": "Stopień wygranej",
+        "prizeValue": "Wartość wygranej",
+        "buttonClose": "X",
+        "paytableWager": "Opłata za los: ", 
+        "flip":"ROZDAJ",
+        "description":"Opis"
+    }
+} 
